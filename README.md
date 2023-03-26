@@ -1,7 +1,7 @@
 # WasteClassifier
 Sorting different types of garbage materials, organic, metal, plastic etc to help automate recycling, using computer vision and convolutional neural network. To help automate the process of recycling.
 
-You can a demo on this link - https://youtu.be/Bnt38Zp8w8E
+You can watch a demo on this link - https://youtu.be/Bnt38Zp8w8E
 ## to start this project
 clone this project to your device and run the classificationModule.py
 ## usage
